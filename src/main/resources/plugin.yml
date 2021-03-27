@@ -1,0 +1,5 @@
+name: AdminGui
+version: 0.1
+author: TomasGnG
+description: Edit your server settings
+main: de.tomas.AdminGui
